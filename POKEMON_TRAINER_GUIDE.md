@@ -179,6 +179,7 @@ To avoid overwhelming kids, start with these guardrails:
 ## 8. App Modules — Implementation Plan
 
 ### Phase 1 — Learn the Cards (MVP)
+- **The app must download the complete Base Set (102 cards)** from the Pokemon TCG API at first launch and use these as the practice cards throughout all modules. This gives kids real, recognizable cards (Pikachu, Charizard, Blastoise, etc.) rather than placeholder art.
 - Card viewer: tap card type to learn what it does
 - Drag-and-drop sorting game: sort cards into Pokemon / Energy / Trainer piles
 - Quiz: "What type of card is this?"
